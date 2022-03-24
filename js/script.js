@@ -32,7 +32,7 @@ if (age < 18){
     console.log("norm");
 }
 
- let biglietto = document.getElementById("prezzoBiglietto").innerHTML += total + "£";
+ let biglietto = document.getElementById("prezzoBiglietto").innerHTML += "Prezzo biglietto :" + " " + total + " " + "€";
  
 
 
